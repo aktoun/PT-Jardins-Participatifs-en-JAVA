@@ -40,8 +40,8 @@ public class ActionLegume extends ActionLegumeFactory
      */
     public void NouvelleActionLegume(LocalDate date, ActionLegumeType type, int idParcelle, String legume)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
         String nomJardin = "";
         String datee = "";
 
@@ -124,8 +124,8 @@ public class ActionLegume extends ActionLegumeFactory
      */
     public boolean VerifPresenceCulture(int idParcelle)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
         int test=0;
         String action = ActionToString(ActionLegumeType.SEMER);
         boolean cultiver = true;
@@ -184,8 +184,8 @@ public class ActionLegume extends ActionLegumeFactory
      */
     public void destructCulture(int idParcelle)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
         String action = ActionToString(ActionLegumeType.SEMER);
         boolean vrai = true;
         boolean faux = false;
@@ -228,8 +228,8 @@ public class ActionLegume extends ActionLegumeFactory
      */
     public void GetActionJardin(int idParcelle)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
 
         try
         {

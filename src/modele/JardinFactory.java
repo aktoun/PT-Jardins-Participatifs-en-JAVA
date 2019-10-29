@@ -32,8 +32,8 @@ public class JardinFactory implements AbstractJardinFactory
      */
     public void AddJardin(String nomJardin, int dimx, int dimy)
     {
-    	String login = "bernardl";
-		String mdp = "LoloLaChips";
+    	String login = "mana";
+		String mdp = "yaiba0304";
 		try
 		{
 	        Class.forName("org.mariadb.jdbc.Driver");
@@ -89,8 +89,8 @@ public class JardinFactory implements AbstractJardinFactory
      */
     public void DeleteJardin(String nomJardin)
     {
-    	String login = "bernardl";
-		String mdp = "LoloLaChips";
+    	String login = "mana";
+		String mdp = "yaiba0304";
 		try
 		{
 	        Class.forName("org.mariadb.jdbc.Driver");
@@ -128,8 +128,8 @@ public class JardinFactory implements AbstractJardinFactory
      */
     public JList getAllJardin()
     {
-    	String login = "bernardl";
-		String mdp = "LoloLaChips";
+    	String login = "mana";
+		String mdp = "yaiba0304";
 		String[] nomJardin;
 		int n = 0;
 		int size = 0;
@@ -208,8 +208,8 @@ public class JardinFactory implements AbstractJardinFactory
      */
     public int getX(String jardin)
     {
-    	String login = "bernardl";
-		String mdp = "LoloLaChips";
+    	String login = "mana";
+		String mdp = "yaiba0304";
 		try
 		{
 	        Class.forName("org.mariadb.jdbc.Driver");
@@ -254,8 +254,8 @@ public class JardinFactory implements AbstractJardinFactory
      */
     public int getY(String jardin)
     {
-    	String login = "bernardl";
-		String mdp = "LoloLaChips";
+    	String login = "mana";
+		String mdp = "yaiba0304";
 		try
 		{
 	        Class.forName("org.mariadb.jdbc.Driver");

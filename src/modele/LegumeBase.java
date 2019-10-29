@@ -24,8 +24,8 @@ public class LegumeBase
      */
     public void addLegume(String nomLegume)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
 
         try
         {
@@ -62,8 +62,8 @@ public class LegumeBase
      */
     public void delLegume(String nomLegume)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
         String legume = "";
 
         try
@@ -101,8 +101,8 @@ public class LegumeBase
      */
     public JList getAllLegume()
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
         String[] nomlegume;
         int n = 0;
         int size = 0;

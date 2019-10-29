@@ -25,8 +25,8 @@ public class VerifNomLegume
 	public VerifNomLegume(String nom)
 	{
 		this.nomLegume=nom;
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		String test=null;
 		try
 		{

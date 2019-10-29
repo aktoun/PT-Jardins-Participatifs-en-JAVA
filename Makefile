@@ -212,7 +212,7 @@ clean:
 .PHONY: run
 
 run:
-	java -cp ".:/export/documents/mariadb-client.jar" src.modele.Main
+	java -cp ".://home/mana/Documents/ProjetACDA/mariadb-client.jar" src.modele.Main
 
 #Chemin Loïc Perso: .//home/mnt/c/Users/user/OneDrive/Bureau/ACDA_JAVA_PROJET/ProjetACDA/mariadb-client.jar
 #Chemin Loïc Université: .:/export/home/senart18/bernardl/Desktop/ProjetACDA/Projet-IHM-2019/mariadb-client.jar

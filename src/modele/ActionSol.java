@@ -35,8 +35,8 @@ public class ActionSol extends Action
      */
     public void NouvelleActionSol(LocalDate date, ActionSolType type, int idParcelle)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
         String nomJardin = "";
         String datee = "";
 
@@ -98,8 +98,8 @@ public class ActionSol extends Action
      */
     public void GetActionJardin(int idParcelle)
     {
-        String login = "bernardl";
-        String mdp = "LoloLaChips";
+        String login = "mana";
+        String mdp = "yaiba0304";
 
         try
         {

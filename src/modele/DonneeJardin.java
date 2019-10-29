@@ -35,8 +35,8 @@ public class DonneeJardin
 	 */
     public DonneeJardin(String nomJardin)
     {
-    	String login = "bernardl";
-		String mdp = "LoloLaChips";
+    	String login = "mana";
+		String mdp = "yaiba0304";
 		int n = 0;
 		int size = 0;
 

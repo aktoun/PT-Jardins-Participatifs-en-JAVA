@@ -23,8 +23,8 @@ public class TrouverJardin
      */
 	public TrouverJardin()
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		try
 		{
 	        Class.forName("org.mariadb.jdbc.Driver");
@@ -92,8 +92,8 @@ public class TrouverJardin
 
 	public void resfreshTrouverJardin()
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		try
 		{
 	        Class.forName("org.mariadb.jdbc.Driver");

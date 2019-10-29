@@ -25,8 +25,8 @@ public class VerifNomJardin
 	public VerifNomJardin(String nom)
 	{
 		this.nom_jardin=nom;
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		String test=null;
 		try
 		{

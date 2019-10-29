@@ -28,8 +28,8 @@ public class ParcelleFactory implements AbstractParcelleFactory
      */
 	public Orientation getSplit(int idMere)
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		Boolean couper;
 		int mere;
 		String orient = null;
@@ -89,8 +89,8 @@ public class ParcelleFactory implements AbstractParcelleFactory
      */
 	public void SplitParcelle(Orientation o, int idMere)
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		String nomJardin = null;
 		int dimx = 0;
 		int dimy = 0;
@@ -327,8 +327,8 @@ public class ParcelleFactory implements AbstractParcelleFactory
      */
 	public void reset(int idMere)
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		int idFille1, idFille2;
 		int mere = 0;
 		Boolean couper = false;
@@ -374,8 +374,8 @@ public class ParcelleFactory implements AbstractParcelleFactory
      */
 	public int getFirst(int idMere)
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		int mere = 0;
 		Boolean couper = false;
 		String orient = null;
@@ -430,8 +430,8 @@ public class ParcelleFactory implements AbstractParcelleFactory
      */
 	public int getSecond(int idMere)
 	{
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		int mere = 0;
 		Boolean couper = false;
 		String orient = null;
@@ -488,8 +488,8 @@ public class ParcelleFactory implements AbstractParcelleFactory
      */
 	public String getNomJardin(int id){
 
-		String login = "bernardl";
-		String mdp = "LoloLaChips";
+		String login = "mana";
+		String mdp = "yaiba0304";
 		String nom=null;
 		try
 		{
